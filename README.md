@@ -8,7 +8,7 @@ and related project work.
 
 ---
 
-## 🧠 Purpose
+## Purpose
 
 The goal of MOSSAI is to:
 - Learn machine learning **from fundamentals**
@@ -18,7 +18,7 @@ The goal of MOSSAI is to:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 MOSSAI/
 ├── notebooks/ 
@@ -29,7 +29,7 @@ MOSSAI/
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Languages:** Python  
 - **Libraries:** NumPy, Pandas, PyTorch  
@@ -42,7 +42,7 @@ MOSSAI/
 
 ---
 
-## 📓 Notebooks
+## Notebooks
 
 The notebooks in this repository focus on:
 - Understanding ML concepts step-by-step  
@@ -54,7 +54,7 @@ Each notebook is treated as a **learning artifact**, not just final code.
 
 ---
 
-## 🚀 Projects
+## Projects
 
 The `projects/` directory contains small but complete AI/ML applications where:
 - Models are trained and evaluated
@@ -65,7 +65,7 @@ Some projects may later be extended or deployed.
 
 ---
 
-## 📤 MOSS Submissions
+## MOSS Submissions
 
 All work related to **Manipal Open Source Society (MOSS)** — including assignments, learning tracks,
 and project submissions — is organized under the `submissions/` directory.
@@ -77,7 +77,7 @@ This ensures:
 
 ---
 
-## 📌 Notes
+## Notes
 
 - This repository is **actively evolving**
 - Code quality and structure improve over time
@@ -85,7 +85,7 @@ This ensures:
 
 ---
 
-## 📫 Author
+## Author
 
 **Dhruv**  
 Student | ML & AI Learner  
